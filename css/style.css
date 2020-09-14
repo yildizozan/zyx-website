@@ -1587,7 +1587,7 @@ ul.download-list li a i {
  /* VIDEO */
 
 .video-wrapper{
-	background: url(http://placehold.it/1920x1000) top center no-repeat;
+	background: url(../images/device-large.png) top center no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
